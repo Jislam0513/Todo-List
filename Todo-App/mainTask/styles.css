@@ -1,0 +1,84 @@
+*{
+    margin:0;
+    padding:0;
+}
+.title{
+    display: flex;
+    float: left;
+    color: white;
+    font-family: monospace;
+
+}
+.right1{
+    position: absolute;
+    right:0;
+}
+.right2{
+    position: absolute;
+    right:100px;
+}
+#login{
+    margin: 0 1em;
+}
+.footer {
+    position: fixed;
+    left: 0;
+    bottom: 0;
+    width: 100%;
+    background-color: white;
+    color: white;
+    text-align: center;
+    padding: 10px;
+    font-family: monospace;
+
+    font-size: 0.5rem;
+}
+.center{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    min-height: 100vh;
+    font-family: monospace;
+
+}
+.backgroundColor{
+    background-color: #2196F3;
+}
+
+.form1{
+    padding: 20px;
+    margin:20px;
+    background-color: yellowgreen;
+}
+.intro{
+    width: 65%;
+    text-align: center;
+    font-family: monospace;
+
+}
+#regNav{
+    white-space: nowrap;
+}
+.center{
+    margin-left: auto;
+    margin-right: auto;
+}
+button{
+    margin: 4px;
+}
+.acc {
+    color:white;
+}
+input{
+    margin:10px;
+}
+table{
+    padding: 4px;
+    margin: 4px;
+    font-size: 15px;
+    font-family: monospace;
+
+
+}
+
